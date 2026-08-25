@@ -1,3 +1,6 @@
+README.md `For the English Version`
+README.pt.md `For the Portuguese Version` 
+
 # ARMIAC — Intelligent Robotic Hand
 
 **ARMIAC** is a robotic hand prototype developed as my **Professional Aptitude Project (PAP)** during the 2025/2026 academic year as part of the *Computer Systems Management and Programming* vocational course.
